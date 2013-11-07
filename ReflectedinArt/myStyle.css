@@ -1,0 +1,37 @@
+body {
+	 
+	font-family: Helvetica ;
+}
+
+.business-header {
+	height: 250px;
+	background: url("../portrait1.jpg") center center no-repeat;
+	background-size: cover;
+
+}
+
+.tagline {
+	color: #fff;
+	text-shadow: 6px 6px 7px #000;
+	font-family: 'Fredericka the Great', cursive;
+	font-size: 60px;
+}
+
+.subtagline {
+	font-family: 'Sacramento', cursive;
+	font-size: 64px;
+}
+
+.caption {
+	font-family: 'Sacramento', cursive;
+	font-size:50px;
+}
+
+.description {
+	font-family: 'Fredericka the Great', cursive;
+}
+
+footer {
+	margin: 10px 0;
+}
+
